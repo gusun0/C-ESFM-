@@ -3,10 +3,13 @@ using namespace std;
 
 int main(){
 	
-	for(int i=0;i<2;i++){
-		for(int i=0;i<2;i++){
-			cout << "*";
-		}cout << endl;
+	int bandera = 0;
+	if (bandera){
+		cout << "si";
+	}
+	else{
+		cout << "no";
+		
 	}
 
 
