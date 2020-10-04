@@ -1,0 +1,30 @@
+#include <iostream>
+using namespace std;
+
+void someFunciont(void){
+
+	return;
+}
+
+int someFunction(int var){
+
+	return var;
+}
+
+double someFunction(double var) {
+
+	return var;
+}
+
+int someFunction(int va1,int var2){
+	
+	return var1+var2;
+}
+
+int main(int nNumberofArgs, char* pszArgs[])
+{
+	
+	
+
+	return 0;
+}
